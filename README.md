@@ -11,7 +11,7 @@ Recently got twitter to keep up with the rapid advancements in ml, [@PodderGouro
 
 ⚡ Work experience: 
 *  Currently interning at RBC working with auto-regressive models on RISK tasks. Also wearing multiple hats by designing and developing a fullstack application
-*  Interned at Hatch LTD. training large image segmentation models for manufacturing. Also built robust data pipelines on azure and deployed the application on the edge
+*  Interned at Hatch LTD. training large image segmentation models for manufacturing. Also built robust data pipelines on azure and deployed the application on the edge for real-time inference
 
 🔭 Currently into: 
 *  Large foundational models(both visual and language)

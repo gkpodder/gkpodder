@@ -1,4 +1,4 @@
-## Hey there, Welcome to Gourob's Github 👋
+## Hey there, Welcome to My Github 👋
 I am a Software Engineering student @McMaster University, in Canada! 
 
 My interests can be summed up in 2 words, "Ml + Software". I want to be part of discovering and translating innovations in Ml research into robust software to enrich the regular person!

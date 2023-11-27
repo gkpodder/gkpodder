@@ -5,12 +5,12 @@ My interests can be summed up in 2 words, "Ml + Software". I want to be part of 
 
 When I'm not tinkering I love to play soccer ⚽, hike 🚵🏼, and travel 🗼(recently visited Japan!)
 
-Also got twitter to keep up with the rapid advancements in ml and ml drama, [@PodderGourob](https://twitter.com/PodderGourob) and am currently working on my first blog post 👀
+Also got twitter to keep up with advancements in ml and ~~ml drama~~, [@PodderGourob](https://twitter.com/PodderGourob) and am currently working on my first blog post 👀
 
 💬 feel free to reach out on my [Linkedin](https://www.linkedin.com/in/gourobpodder/) or through email, gkpodder2003@gmail.com !
 
 ⚡ Work experience: 
-*  Interned at RBC working with auto-regressive models on RISK tasks. Also did some swe work designing and developing a fullstack application to connect our models to our clients seamlessly 
+*  Interned at RBC working with auto-regressive models on RISK tasks. Also did some swe work where I collobarated in designing and developing a fullstack application to connect our models to our clients seamlessly 
 *  Interned at Hatch LTD. training large image segmentation models for manufacturing. Also built robust data pipelines on azure and deployed the application on the edge for real-time inference
 
 🔭 Currently into: 

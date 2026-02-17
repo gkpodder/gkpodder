@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - name: Ensure profile dir
+        run: mkdir -p profile
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
